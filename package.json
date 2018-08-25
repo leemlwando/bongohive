@@ -1,0 +1,16 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "bongohive nodejs demo app",
+  "main": "index.js",
+  "dependencies": {
+    "busboy": "^0.2.14",
+    "multiparty": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lee m lwando",
+  "license": "ISC"
+}
